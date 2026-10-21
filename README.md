@@ -1,6 +1,6 @@
 ![Estático](https://img.shields.io/badge/Legion_del_mal-Activo-red)
 ![Con logo](https://img.shields.io/badge/DC_Entertainment-JCVP-0078F0?style=flat&logo=dcentertainment&logoColor=white)
-![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/Calin1977/Curso_Git/v1.0.0/total)
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/Calin1977/Curso_Git/v1.0.0)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/Calin1977/Curso_Git/ci.yml)
 ![Release](https://img.shields.io/github/v/release/Calin1977/Curso_Git)
