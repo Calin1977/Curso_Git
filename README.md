@@ -1,3 +1,13 @@
+![Estático](https://img.shields.io/badge/Legion_del_mal-Activo-red)
+![Con logo](https://img.shields.io/badge/DC_Entertainment-JCVP-0078F0?style=flat&logo=dcentertainment&logoColor=white)
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/Calin1977/Curso_Git/v1.0.0/total)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/Calin1977/Curso_Git/ci.yml)
+![Release](https://img.shields.io/github/v/release/Calin1977/Curso_Git)
+![Issues](https://img.shields.io/github/issues/Calin1977/Curso_Git)
+![Último commit](https://img.shields.io/github/last-commit/Calin1977/Curso_Git)
+![Licencia](https://img.shields.io/github/license/Calin1977/Curso_Git)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
