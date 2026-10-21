@@ -1,9 +1,9 @@
 ![Estático](https://img.shields.io/badge/Legion_del_mal-Activo-red)
 ![Con logo](https://img.shields.io/badge/DC_Entertainment-JCVP-0078F0?style=flat&logo=dcentertainment&logoColor=white)
-![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/Calin1977/Curso_Git/v1.0.0?cacheSeconds=60)
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/Calin1977/Curso_Git/v1.0.0?cacheSeconds=30)
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/Calin1977/Curso_Git/ci.yml?cacheSeconds=60)
-![Release](https://img.shields.io/github/v/release/Calin1977/Curso_Git?cacheSeconds=60)
+![Workflow](https://img.shields.io/github/actions/workflow/status/Calin1977/Curso_Git/ci.yml)
+![Release](https://img.shields.io/github/v/release/Calin1977/Curso_Git?cacheSeconds=30)
 ![Issues](https://img.shields.io/github/issues/Calin1977/Curso_Git)
 ![Último commit](https://img.shields.io/github/last-commit/Calin1977/Curso_Git)
 ![Licencia](https://img.shields.io/github/license/Calin1977/Curso_Git)
