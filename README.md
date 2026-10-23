@@ -1,4 +1,5 @@
 ![Con logo](https://img.shields.io/badge/DC_Entertainment-_JCVP_-0078F0?style=for-the-badge&logo=dcentertainment&logoColor=white)
+
 ![Estático](https://img.shields.io/badge/Legion_del_mal-Activo-red)
 ![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/Calin1977/Curso_Git/v1.0.0?cacheSeconds=30)
 
